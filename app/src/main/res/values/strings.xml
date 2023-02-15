@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="note_transition_name">note_transition_name</string>
+    <string name="action_delete">Delete</string>
+</resources>
